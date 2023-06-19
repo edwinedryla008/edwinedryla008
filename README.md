@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edwinedryla008
-- 👀 I’m interested in developing games 
+- 👀 I’m interested in game development
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
